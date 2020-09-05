@@ -1,16 +1,16 @@
-name: Latest Youtube Videos
-on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+# name: Latest Youtube Videos
+# on:
+#   schedule:
+#     # Runs every hour
+#     - cron: '0 * * * *'
 
-jobs:
-  update-readme-with-youtube:
-    name: Update this repo's README with latest videos from my youtube
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "YOUTUBE"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=/UCYdv08Q3CGAtLuEuEUK6XXg"
+# jobs:
+#   update-readme-with-youtube:
+#     name: Update this repo's README with latest videos from my youtube
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v2
+#       - uses: gautamkrishnar/blog-post-workflow@master
+#         with:
+#           comment_tag_name: "YOUTUBE"
+#           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=/UCYdv08Q3CGAtLuEuEUK6XXg"
