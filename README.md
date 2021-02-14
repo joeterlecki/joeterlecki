@@ -13,9 +13,3 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-
----
-
-### Latest Youtube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
