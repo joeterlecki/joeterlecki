@@ -13,8 +13,8 @@ Due to the number of tools and pardadigms involved with building a robust Cloud 
 has been organized into their own github organization with their own project boards and relevant repositories.
 For example, there are Organizations for a IAC Registry, Docker files, Tooling, and more!
 
-**_[Terraform Registry](https://github.com/terraform-aws-iac)_**
+**_[Terraform Registry](https://github.com/terraform-aws-iac)_**  
 No devops invested infrastructure would be complete without its own standardized IAC Registry
 
-**[Devinitly Infrastructure](https://github.com/devinitly-infrastructure)**
+**_[\_Devinitly Infrastructure](https://github.com/devinitly-infrastructure)_**  
 You will find repositories for IAC managed AWS Accounts and Infrasructure here.
