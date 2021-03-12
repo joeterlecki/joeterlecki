@@ -15,7 +15,7 @@ For example, there are Organizations for a IAC Registry, Docker files, Tooling, 
 
 **_[Terraform Registry](https://github.com/terraform-aws-iac)_**  
 No devops invested infrastructure would be complete without its own standardized IAC Registry  
-![](https://raw.githubusercontent.com/joeterlecki/joeterlecki/master/img/terraform-modules-1.png)
+![](https://raw.githubusercontent.com/joeterlecki/joeterlecki/1b573becb88ac376c767d2b87c38d230058dca53/img/terrafrom-modules.svg)
 
 **_[Devinitly Infrastructure](https://github.com/devinitly-infrastructure)_**  
 You will find repositories for IAC managed AWS Accounts and Infrasructure here.
