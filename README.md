@@ -20,5 +20,5 @@ No devops invested infrastructure would be complete without its own standardized
 You will find repositories for IAC managed AWS Accounts and Infrasructure here.
 
 **_[Cloud Engineering]()_**
-Grouping of all Engineering solutuions and services for cloud environments.
+Grouping of all Engineering solutuions and services for cloud environments.  
 For example, Hardened AMI pipelines and AWS Account creation automation.
