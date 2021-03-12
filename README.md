@@ -19,6 +19,6 @@ No devops invested infrastructure would be complete without its own standardized
 **_[Devinitly Infrastructure](https://github.com/devinitly-infrastructure)_**  
 You will find repositories for IAC managed AWS Accounts and Infrasructure here.
 
-**_[Cloud Engineering]()_**
+**_[Cloud Engineering](https://github.com/devinitly-infrastructure)_**  
 Grouping of all Engineering solutuions and services for cloud environments.  
 For example, Hardened AMI pipelines and AWS Account creation automation.
