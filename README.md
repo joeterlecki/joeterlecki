@@ -1,15 +1,16 @@
-### Hi there, I'm Joe!
+# Hi there, I'm Joe
 
-## I specialize in AWS, Devsecops, and Security
+## I am a Cloud Infrastructure Engineer
 
-Here are some ideas to get you started:
+---
 
 - 🔭 I’m currently working on building my personal brand with youtube
 - 🌱 I’m currently always learning
 
-### Connect with me:
-[<img align="left" alt="Joe Terlecki youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube](https://www.youtube.com/channel/UCYdv08Q3CGAtLuEuEUK6XXg)
-[<img align="left" alt="Joe Terlecki Linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/joseph-terlecki)
+## Projects
 
-<br />
-<br />
+I have decided to impliment my repositories based around a ficticious organization to give them more meaning.
+This organization has decided to invest heavily in Cloud Native Architecture and DEVOPS Tooling.
+Due to the number of tools and pardadigms involved with building a robust Cloud and DEVOPS environmnet(s), everything
+has been organized into their own github organization with their own project boards and relevant repositories.
+For example, there are Organizations for a IAC Registry, Docker files, Tooling, and more!
