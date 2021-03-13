@@ -25,6 +25,5 @@ where ever possible. Since my environments have no compliance regulation, nothin
 !['Terraform  and Azure Devops'](https://raw.githubusercontent.com/joeterlecki/joeterlecki/master/img/terraform-cloud-azure-devops.png)
 
 **_[Cloud Engineering](https://github.com/devinitly-infrastructure)_**  
-Grouping of all Engineering solutuions and services for cloud environments.  
-For example, Hardened AMI pipelines and AWS Account creation automation.
+Grouping of all Engineering solutuions and services for cloud environments. For example, Hardened AMI pipelines and AWS Account creation automation are problems that must be addressed as your cloud foot print grows. As an environment evolves so must our engineering efforts, solutions, in house tooling, and managed services. All realted projects and initiatives can be found here.
 !['Solving complex Cloud engineering solutions in AWS'](https://raw.githubusercontent.com/joeterlecki/joeterlecki/master/img/golden-ami-placeholder.png)
