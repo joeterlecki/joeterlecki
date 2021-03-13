@@ -27,3 +27,4 @@ where ever possible. Since my environments have no compliance regulation, nothin
 **_[Cloud Engineering](https://github.com/devinitly-infrastructure)_**  
 Grouping of all Engineering solutuions and services for cloud environments.  
 For example, Hardened AMI pipelines and AWS Account creation automation.
+!['Solving complex Cloud engineering solutions in AWS'](https://raw.githubusercontent.com/joeterlecki/joeterlecki/master/img/golden-ami-placeholder.png)
