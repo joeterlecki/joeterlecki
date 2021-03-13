@@ -16,7 +16,7 @@ For example, there are Organizations for a IAC Registry, Docker files, Tooling, 
 **_[Terraform Registry](https://github.com/terraform-aws-iac)_**  
 No devops invested infrastructure would be complete without its own standardized IAC Registry. The registry is available
 by Terraform cloud and github directly. This gives enough flexibility to test out SAAS offerings and host the Modules Publicly here on Github!
-!['Terraform modules in cloud infrastructure'](https://raw.githubusercontent.com/joeterlecki/joeterlecki/master/img/Terraform-architecture-explained.jpeg)
+!['Terraform modules in cloud infrastructure'](https://raw.githubusercontent.com/joeterlecki/joeterlecki/master/img/terraform-registry.png)
 
 **_[Devinitly Infrastructure](https://github.com/devinitly-infrastructure)_**  
 You will find repositories for IAC managed AWS Accounts and Infrasructure here. These accounts are all managed via pipelines. At this time I am currently
